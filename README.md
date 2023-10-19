@@ -1,5 +1,10 @@
 - Creare markup statico FATTO
-- Rimuovere markup statico ed inserire gli oggetti letterali nel carosello
+- Rimuovere markup statico ed inserire gli oggetti letterali nel carosello FATTO
+    - Creare l’array di oggetti FATTO
+    - stampare in console le info di ogni membro del team FATTO
+    - stampare le info sul dom in stringhe FATTO
+    - Trasformare la stringa foto in immagine FATTO
+
 - Al click dell'utente l'immagine attiva diventerà visibile e verrà aggiunto il corrispettivo testo
 - Aggiungere ciclo infinito
 - Aggiungere thumbnails click responsive
