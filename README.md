@@ -1,0 +1,7 @@
+- Creare markup statico FATTO
+- Rimuovere markup statico ed inserire gli oggetti letterali nel carosello
+- Al click dell'utente l'immagine attiva diventerà visibile e verrà aggiunto il corrispettivo testo
+- Aggiungere ciclo infinito
+- Aggiungere thumbnails click responsive
+- Aggiungere funzionalità di autoiplay ogni 3 secondi
+- Aggiungere bottoni di start-stop e inversione dell'autoplay
